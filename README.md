@@ -15,7 +15,7 @@ Prime ChatGPT with detailed prompts to shape its functionality. Scroll down to p
 #### Multi-line pasting
 Accepts pasting long text with Line Breaks through mouse right-click.
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0ZWFtMmk5ZW04YTNqcXJvM3BweHgyYWgxdTF5aDM3OHhoYzMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4aVPic0NmQq46FokR/giphy.gif" width="70%" height="20%" /></div>
-<p align="center">Summarize a long new article then ask a follow-up question</p>
+<p align="center">Summarize a news article then followed up with a question</p>
 
 ##  🛠️ Project Setup
 ### 1. Get this repository
