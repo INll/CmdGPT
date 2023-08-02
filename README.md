@@ -1,7 +1,7 @@
 <h2 align="center">🤖CmdGPT🔧</h2>
 <p align="center">This Python project packs ChatGPT into a CLI application.
 </p>
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBuaTBna3hraXA3YmZsb21ydWUybXVxYmp3ODIyZmVld2tsZDk2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xl11AkqgCrseiR8y2b/giphy.gif" width="70%" height="20%" /></div>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBuaTBna3hraXA3YmZsb21ydWUybXVxYmp3ODIyZmVld2tsZDk2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xl11AkqgCrseiR8y2b/giphy.gif" width="80%" height="20%" /></div>
 <p align="center">Real-time Demonstration (response speed may vary)</p>
 
 ## 📝 Description
@@ -14,7 +14,7 @@ Runs a Selenium-based headless Chrome browser under the hood, this CLI applicati
 Prime ChatGPT with detailed prompts to shape its functionality. Scroll down to preview sample prompts provided in `./prompts`.
 #### Multi-line pasting
 Accepts pasting long text with Line Breaks through mouse right-click.
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0ZWFtMmk5ZW04YTNqcXJvM3BweHgyYWgxdTF5aDM3OHhoYzMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4aVPic0NmQq46FokR/giphy.gif" width="70%" height="20%" /></div>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0ZWFtMmk5ZW04YTNqcXJvM3BweHgyYWgxdTF5aDM3OHhoYzMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4aVPic0NmQq46FokR/giphy.gif" width="80%" height="20%" /></div>
 <p align="center">Summarize a news article then followed up with a question</p>
 
 ##  🛠️ Project Setup
