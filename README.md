@@ -2,7 +2,7 @@
 <p align="center">This Python project packs ChatGPT into a CLI application.
 </p>
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBuaTBna3hraXA3YmZsb21ydWUybXVxYmp3ODIyZmVld2tsZDk2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xl11AkqgCrseiR8y2b/giphy.gif" width="80%" height="20%" /></div>
-<p align="center">Real-time Demonstration (response speed may vary)</p>
+<p align="center">Real-time Demonstration</p>
 
 ## 📝 Description
 Runs a Selenium-based headless Chrome browser under the hood, this CLI application connects to Poe.com and access its free ChatGPT service.
