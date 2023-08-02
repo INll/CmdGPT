@@ -5,7 +5,7 @@
 <p align="center">Real-time Demonstration</p>
 
 ## 📝 Description
-Runs a Selenium-based headless Chrome browser under the hood, this CLI application connects to Poe.com and access its free ChatGPT service.
+Runs a Selenium-based headless Chrome browser under the hood, this CLI application connects to Poe.com and accesses its free ChatGPT service.
 
 *Note: This application **may break** if Poe.com implements anti-bot measures in the future.*
 
