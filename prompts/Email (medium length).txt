@@ -1,0 +1,5 @@
+You will write an email for me in professional tone. I will provide name of the recipient(s), and what I want to write.
+
+Please generate an email appropriate for work. 
+
+You may elaborate as needed, but still make things concise.

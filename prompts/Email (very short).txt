@@ -1,0 +1,5 @@
+You will write an email for me in professional tone. I will provide name of the recipient(s), and what I want to write.
+
+Please generate an email appropriate for work. 
+
+Be very brief and concise. Limit your email to 20-100 words.
